@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<company>
+<department depId="1" name="Development">
+<employee empId="001">
+<lastName>LastName</lastName>
+<firstName>FirstName</firstName>
+<birthDate>01.01.2000</birthDate>
+<position>Department Manager</position>
+<skills>
+<skill>Communication</skill>
+<skill>Java</skill>
+</skills>
+<managerId>0</managerId>
+</employee>
+<employee empId="002">
+<lastName>LastName2</lastName>
+<firstName>FirstName2</firstName>
+<birthDate>01.01.2001</birthDate>
+<position>Developer</position>
+<skills>
+<skill>Sleeps only 2 hours per day</skill>
+<skill>Overtimes without concerns</skill>
+<skill>Works for food</skill>
+</skills>
+<managerId>001</managerId>
+</employee>
+<employee empId="003">
+<lastName>LastName3</lastName>
+<firstName>FirstName3</firstName>
+<birthDate>01.01.2002</birthDate>
+<position>Tester</position>
+<skills>
+<skill>Self-motivation</skill>
+<skill>Creativity</skill>
+<skill>Sherlock Holmes</skill>
+<managerId>002</managerId>
+</skills>
+</employee>
+</department>
+<department depId="2" name="Accounting">
+<employee empId="04">
+<lastName>LastName4</lastName>
+<firstName>FirstName4</firstName>
+<birthDate>01.01.2004</birthDate>
+<position>Department Manager</position>
+<skills>
+<skill>Leadership</skill>
+<skill>Decision Making</skill>
+</skills>
+<managerId>0</managerId>
+</employee>
+<employee empId="05">
+<lastName>LastName4</lastName>
+<firstName>FirstName4</firstName>
+<birthDate>01.01.2005</birthDate>
+<position>Test Automator</position>
+<skills>
+<skill>Adaptability</skill>
+<skill>Java</skill>
+</skills>
+<managerId>04</managerId>
+</employee>
+</department>
+</company>
